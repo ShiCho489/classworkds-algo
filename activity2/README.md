@@ -27,7 +27,7 @@ Discuss in group whether the following statements are True or false.
   - a= [6,1,2,3,4,5] 5..4...3..insert 7
   - Yes, 1 operation to shift each element + one operation to insert.
 - Deletion of an element from an array of length N, takes N steps in worst-case scenario.
-  - No , N+1 
+  - Yes, N+1 steps but we don't consider constants in worst case scenarios.
   - if we want to delete front most element, we will have to shift to delete and shift all elements to the left.
 
 ## Task 2: Sets
